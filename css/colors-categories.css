@@ -1,23 +1,22 @@
+.cat-nacional, .cat-entretenimiento, .cat-tecnologia, .cat-mascotas, .cat-deportes{
+	color: #fff;
+}
+
 .cat-nacional{
 	background-color: #00B049;
-	color: #fff;
 }
 .cat-entretenimiento{
 	background-color: #FFC915;
-	color: #fff;
 }
 
 .cat-tecnologia{
 	background-color: #00D3F8;
-	color: #fff;
 }
 
 .cat-mascotas{
 	background-color: #00D3F8;
-	color: #fff;
 }
 
 .cat-deportes{
 	background-color: #FF372C;
-	color: #fff;
 }

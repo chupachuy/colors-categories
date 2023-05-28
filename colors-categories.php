@@ -16,7 +16,6 @@ if( !defined('ABSPATH')){
 	exit();
 }
 
-
 class ColorsCategories{
 
 	public function __construct(){
